@@ -1,0 +1,28 @@
+
+.two{
+    display: inline;
+    align-items: center;
+}
+div{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.one{
+    padding: 50px;
+  
+    
+}
+.three{
+    display: inline;
+    align-items: center;
+}
+.four{
+    background-color: white;
+    color: black;
+}
+.five{
+    padding: 10px;
+    align-items: self-start;
+
+}
